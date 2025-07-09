@@ -1,10 +1,10 @@
 # [level 0] 각도기 - 120829 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120829?language=c) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120829?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 4.2 MB, 시간: 0.01 ms
+메모리: 64.6 MB, 시간: 0.03 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 06월 14일 23:53:03
+2025년 07월 09일 23:46:55
 
 ### 문제 설명
 
