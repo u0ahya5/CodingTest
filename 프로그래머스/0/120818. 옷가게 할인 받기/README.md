@@ -1,10 +1,10 @@
 # [level 0] 옷가게 할인 받기 - 120818 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120818) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120818?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 76 MB, 시간: 0.03 ms
+메모리: 64 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 07월 18일 14:49:24
+2025년 07월 26일 21:34:35
 
 ### 문제 설명
 
