@@ -1,10 +1,10 @@
 # [level 0] 나머지 구하기 - 120810 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120810?language=c) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120810?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 4.03 MB, 시간: 0.01 ms
+메모리: 62 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 05월 18일 23:45:02
+2025년 07월 30일 23:43:53
 
 ### 문제 설명
 
