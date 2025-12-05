@@ -1,10 +1,10 @@
 # [level 0] 배열 원소의 길이 - 120854 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120854?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120854?language=javascript) 
 
 ### 성능 요약
 
-메모리: 64.5 MB, 시간: 8.29 ms
+메모리: 33.4 MB, 시간: 0.05 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 09월 13일 23:57:30
+2025년 12월 05일 23:49:16
 
 ### 문제 설명
 
