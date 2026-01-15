@@ -3,11 +3,8 @@ import java.util.Scanner;
 public class Main{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-        
-        int A = sc.nextInt();
-        int B = sc.nextInt();
-        int cal = (A+B)*(A-B);
-        System.out.print(cal);
+        long A = sc.nextLong();
+        long B = sc.nextLong();
+        System.out.print((A+B)*(A-B));
     }
 }
-//  A＠B = (A+B)×(A-B)
