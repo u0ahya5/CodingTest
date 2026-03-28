@@ -1,22 +1,23 @@
+import java.math.BigInteger;
 import java.util.Scanner;
 
 public class Main {
 	public static void main(String agrs[]) {
 		Scanner sc = new Scanner(System.in);
 		
-		long A = sc.nextLong();
-		long B = sc.nextLong();
+		BigInteger A = sc.nextBigInteger();
+		BigInteger B = sc.nextBigInteger();
 		
-		long C = A/B;
-		long D = A%B;
+		BigInteger C = A.divide(B);
+		BigInteger D = A.remainder(B);
 		
-		if(D < 0) {
-			if(B > 0) {
-				C--;
-				D += B;
+		if(D.compareTo(BigInteger.ZERO) < 0) {
+			if(B.compareTo(BigInteger.ZERO) > 0) {
+				C = C.subtract(BigInteger.ONE);
+				D = D.add(B);;
 			} else {
-				C++;
-				D -= B;
+				C = C.add(BigInteger.ONE);
+				D = D.subtract(B);
 			}
 		}
 		
